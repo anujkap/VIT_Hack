@@ -21,12 +21,14 @@ relatively cheaper as against their actual value. He points out that applying th
 reduce and even eliminate a lot of fundamental risks while ensuring a robust business model, strong 
 earning potential and a good buying price. 
 
-# Challenge 2: Sentiment Analysis on News data
+# Challenge 2: Sentiment Analysis on News data.
 Can we use the content of news analytics to predict stock price performance? The ubiquity of data today enables investors at any scale to make better investment decisions. The challenge is ingesting and 
-interpreting the data to determine which data is useful, finding the signal in this sea of information. Deevia is passionate about this challenge and is excited to share it with the community. By analyzing news data to predict stock prices, you have a unique opportunity to advance the state of 
-research in understanding the predictive power of the news. This power, if harnessed, could help predict financial outcomes and generate significant economic impact all over the world.
+interpreting the data to determine which data is useful, finding the signal in this sea of information. Deevia is passionate about this challenge and is excited to share it with the community. By analyzing news data to predict stock prices, you have a unique opportunity to advance the state of research in understanding the predictive power of the news. This power, if harnessed, could help predict financial outcomes and generate significant economic impact all over the world.
+
+
 
 # Challenge 3: Time series prediction of stock prices
-The neural network are one of the intelligent data mining technique that has been used by researchers in various areas for the past 10 years. Prediction and analysis of stock market data have got an important role in today’s economy. Can we use different types of deep learning architectures like Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN) for predicting the stock price of a company based on the historical prices available. Here we are using day-wise closing price of National Stock Exchange (NSE)
+The neural network are one of the intelligent data mining technique that has been used by researchers in various areas for the past 10 years. Prediction and analysis of stock market data have got an important role in today’s economy. Can we use different types of deep learning architectures like Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN) for predicting the stock price of a company based on the historical prices available. Here we are using day-wise closing price of National Stock Exchange (NSE).
+Using Tensor flow and keras library in python.
 
  

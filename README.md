@@ -19,7 +19,7 @@ Step 5: Filter out all companies with PE ratio greater than 25
 since they are too expensive even for a high-quality company. This enables us to pick companies which are 
 relatively cheaper as against their actual value. He points out that applying these filters enables us to 
 reduce and even eliminate a lot of fundamental risks while ensuring a robust business model, strong 
-earning potential and a good buying price. 
+earning potential and a good buying price..
 
 # Challenge 2: Sentiment Analysis on News data.
 Can we use the content of news analytics to predict stock price performance? The ubiquity of data today enables investors at any scale to make better investment decisions. The challenge is ingesting and 
